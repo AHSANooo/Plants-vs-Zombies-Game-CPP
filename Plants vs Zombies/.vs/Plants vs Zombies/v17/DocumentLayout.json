@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|D:\\Github\\Sem_02_Project\\Plants vs Zombies\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Centipede.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Centipede.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +34,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Centipede.cpp",
+              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Centipede.cpp",
+              "RelativeDocumentMoniker": "Centipede.cpp",
+              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Centipede.cpp",
+              "RelativeToolTip": "Centipede.cpp",
+              "ViewState": "AQIAAO0CAAAAAAAAAAAiwP8CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T17:16:36.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-28T15:35:13.447Z",
               "EditorCaption": ""
