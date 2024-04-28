@@ -1,9 +1,9 @@
 ﻿  main.cpp
-D:\Github\Sem_02_Project\Plants vs Zombies\main.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\Github\Sem_02_Project\Plants vs Zombies\main.cpp(44,57): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
-main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::SoundSource::setVolume(float)" (__imp_?setVolume@SoundSource@sf@@QEAAXM@Z)
-main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Music::openFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?openFromFile@Music@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
-main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Music::~Music(void)" (__imp_??1Music@sf@@UEAA@XZ)
-main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Music::Music(void)" (__imp_??0Music@sf@@QEAA@XZ)
-main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual void __cdecl sf::SoundStream::play(void)" (__imp_?play@SoundStream@sf@@UEAAXXZ)
-D:\Github\Sem_02_Project\Plants vs Zombies\x64\Release\Plants vs Zombies.exe : fatal error LNK1120: 5 unresolved externals
+D:\Github\Sem_02_Project\Plants vs Zombies\main.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Github\Sem_02_Project\Plants vs Zombies\main.cpp(39,57): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+  Generating code
+  2 of 70 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Plants vs Zombies.vcxproj -> D:\Github\Sem_02_Project\Plants vs Zombies\x64\Release\Plants vs Zombies.exe

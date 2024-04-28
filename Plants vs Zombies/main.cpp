@@ -20,21 +20,15 @@ int gameGrid[gameRows][gameCols] = {};
 
 int main()
 {
-	srand(time(0));
+
 
 	// Declaring RenderWindow.
-	sf::RenderWindow window(sf::VideoMode(resolutionX, resolutionY), "Centipede by Ahsan", sf::Style::Close | sf::Style::Titlebar);
+	sf::RenderWindow window(sf::VideoMode(resolutionX, resolutionY), "Plants VS Zombies", sf::Style::Close | sf::Style::Titlebar);
 
-	window.setSize(sf::Vector2u(1920, 1015)); // According to the size of my display.
+	window.setSize(sf::Vector2u(1925, 1050)); // According to the size of my display.
 
 	//to start out from 0,0 --> orignally 100,0
 	window.setPosition(sf::Vector2i(0, 0));
-
-	// Initializing Background Music.
-	sf::Music bgMusic;
-	bgMusic.openFromFile("Music/gametune.ogg");// changed as i likes this one more 
-	bgMusic.play();
-	bgMusic.setVolume(100);
 
 
 	// Initializing Background.
