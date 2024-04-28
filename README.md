@@ -1,2 +1,2 @@
 # Sem_02_Project
- This project to designed by Muhammad Ahsan and Ashehal Sadik
+ This project is designed by Muhammad Ahsan and Ashehal Sadik
