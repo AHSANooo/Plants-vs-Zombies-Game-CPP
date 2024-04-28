@@ -141,7 +141,10 @@
   <ItemGroup>
     <ClCompile Include="BeginnersGarden.cpp" />
     <ClCompile Include="CherryBomb.cpp" />
+    <ClCompile Include="DancingZombie.cpp" />
+    <ClCompile Include="FlyingZombie.cpp" />
     <ClCompile Include="FoggyForst.cpp" />
+    <ClCompile Include="FootballZombie.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="Levels.cpp" />
     <ClCompile Include="main.cpp" />
@@ -152,17 +155,23 @@
     <ClCompile Include="Repeater.cpp" />
     <ClCompile Include="RooftopRampage.cpp" />
     <ClCompile Include="Scoreboard.cpp" />
+    <ClCompile Include="SimpleZombie.cpp" />
     <ClCompile Include="SnowPea.cpp" />
     <ClCompile Include="Sunflower.cpp" />
     <ClCompile Include="SunflowerFields.cpp" />
     <ClCompile Include="Time.cpp" />
     <ClCompile Include="Wallnut.cpp" />
+    <ClCompile Include="Zombie.cpp" />
+    <ClCompile Include="ZombieFactory.cpp" />
     <ClCompile Include="ZombieOutskirts.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BeginnersGarden.h" />
     <ClInclude Include="CherryBomb.h" />
+    <ClInclude Include="DancingZombie.h" />
+    <ClInclude Include="FlyingZombie.h" />
     <ClInclude Include="FoggyForst.h" />
+    <ClInclude Include="FootballZombie.h" />
     <ClInclude Include="Game.h" />
     <ClInclude Include="Levels.h" />
     <ClInclude Include="NighttimeSiege.h" />
@@ -172,11 +181,14 @@
     <ClInclude Include="Repeater.h" />
     <ClInclude Include="RooftopRampage.h" />
     <ClInclude Include="Scoreboard.h" />
+    <ClInclude Include="SimpleZombie.h" />
     <ClInclude Include="SnowPea.h" />
     <ClInclude Include="Sunflower.h" />
     <ClInclude Include="SunflowerFields.h" />
     <ClInclude Include="Time.h" />
     <ClInclude Include="Wallnut.h" />
+    <ClInclude Include="Zombie.h" />
+    <ClInclude Include="ZombieFactory.h" />
     <ClInclude Include="ZombieOutskirts.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

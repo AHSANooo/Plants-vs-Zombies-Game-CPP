@@ -1,25 +1,11 @@
-﻿  BeginnersGarden.cpp
-  CherryBomb.cpp
-  FoggyForst.cpp
-  Game.cpp
-  Levels.cpp
-  main.cpp
-D:\Github\Sem_02_Project\Plants vs Zombies\main.cpp(39,57): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
-  NighttimeSiege.cpp
-  Peashooter.cpp
-  Plant.cpp
-  PlantFactory.cpp
-  Repeater.cpp
-  RooftopRampage.cpp
-  Scoreboard.cpp
-  SnowPea.cpp
-  Sunflower.cpp
-  SunflowerFields.cpp
-  Time.cpp
-  Wallnut.cpp
-  ZombieOutskirts.cpp
+﻿  DancingZombie.cpp
+  FlyingZombie.cpp
+  FootballZombie.cpp
+  SimpleZombie.cpp
+  Zombie.cpp
+  ZombieFactory.cpp
   Generating code
-  1 of 69 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+  0 of 69 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
