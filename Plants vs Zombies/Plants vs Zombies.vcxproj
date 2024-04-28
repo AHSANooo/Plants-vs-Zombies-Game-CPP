@@ -139,7 +139,45 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BeginnersGarden.cpp" />
+    <ClCompile Include="CherryBomb.cpp" />
+    <ClCompile Include="FoggyForst.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Levels.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="NighttimeSiege.cpp" />
+    <ClCompile Include="Peashooter.cpp" />
+    <ClCompile Include="Plant.cpp" />
+    <ClCompile Include="PlantFactory.cpp" />
+    <ClCompile Include="Repeater.cpp" />
+    <ClCompile Include="RooftopRampage.cpp" />
+    <ClCompile Include="Scoreboard.cpp" />
+    <ClCompile Include="SnowPea.cpp" />
+    <ClCompile Include="Sunflower.cpp" />
+    <ClCompile Include="SunflowerFields.cpp" />
+    <ClCompile Include="Time.cpp" />
+    <ClCompile Include="Wallnut.cpp" />
+    <ClCompile Include="ZombieOutskirts.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BeginnersGarden.h" />
+    <ClInclude Include="CherryBomb.h" />
+    <ClInclude Include="FoggyForst.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Levels.h" />
+    <ClInclude Include="NighttimeSiege.h" />
+    <ClInclude Include="Peashooter.h" />
+    <ClInclude Include="Plant.h" />
+    <ClInclude Include="PlantFactory.h" />
+    <ClInclude Include="Repeater.h" />
+    <ClInclude Include="RooftopRampage.h" />
+    <ClInclude Include="Scoreboard.h" />
+    <ClInclude Include="SnowPea.h" />
+    <ClInclude Include="Sunflower.h" />
+    <ClInclude Include="SunflowerFields.h" />
+    <ClInclude Include="Time.h" />
+    <ClInclude Include="Wallnut.h" />
+    <ClInclude Include="ZombieOutskirts.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
