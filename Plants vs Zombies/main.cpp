@@ -25,7 +25,7 @@ int main()
 	// Declaring RenderWindow.
 	sf::RenderWindow window(sf::VideoMode(resolutionX, resolutionY), "Plants VS Zombies", sf::Style::Close | sf::Style::Titlebar);
 
-	window.setSize(sf::Vector2u(1925, 1050)); // According to the size of my display.
+	window.setSize(sf::Vector2u(1440, 960)); // According to the size of my display.
 
 	//to start out from 0,0 --> orignally 100,0
 	window.setPosition(sf::Vector2i(0, 0));

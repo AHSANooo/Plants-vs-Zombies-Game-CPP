@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|D:\\Github\\Sem_02_Project\\Plants vs Zombies\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Zombie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|solutionrelative:Zombie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -63,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|solutionrelative:RooftopRampage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|D:\\Github\\Sem_02_Project\\Plants vs Zombies\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|D:\\Github\\Sem_02_Project\\Plants vs Zombies\\NighttimeSiege.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{22E8F520-4247-4CA3-92D9-557A00E41ABB}|Plants vs Zombies.vcxproj|solutionrelative:NighttimeSiege.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -110,98 +110,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-28T15:35:13.447Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Zombie.h",
-              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Zombie.h",
-              "RelativeDocumentMoniker": "Zombie.h",
-              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Zombie.h*",
-              "RelativeToolTip": "Zombie.h*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:23:24.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ZombieFactory.h",
-              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\ZombieFactory.h",
-              "RelativeDocumentMoniker": "ZombieFactory.h",
-              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\ZombieFactory.h*",
-              "RelativeToolTip": "ZombieFactory.h*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:23:11.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DancingZombie.h",
-              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\DancingZombie.h",
-              "RelativeDocumentMoniker": "DancingZombie.h",
-              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\DancingZombie.h*",
-              "RelativeToolTip": "DancingZombie.h*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:20:48.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FlyingZombie.h",
-              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\FlyingZombie.h",
-              "RelativeDocumentMoniker": "FlyingZombie.h",
-              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\FlyingZombie.h*",
-              "RelativeToolTip": "FlyingZombie.h*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:20:30.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FootballZombie.h",
-              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\FootballZombie.h",
-              "RelativeDocumentMoniker": "FootballZombie.h",
-              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\FootballZombie.h*",
-              "RelativeToolTip": "FootballZombie.h*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:20:12.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SimpleZombie.h",
-              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\SimpleZombie.h",
-              "RelativeDocumentMoniker": "SimpleZombie.h",
-              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\SimpleZombie.h*",
-              "RelativeToolTip": "SimpleZombie.h*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:19:41.553Z",
               "EditorCaption": ""
             },
             {
@@ -218,7 +140,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zombie.h",
+              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Zombie.h",
+              "RelativeDocumentMoniker": "Zombie.h",
+              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Zombie.h",
+              "RelativeToolTip": "Zombie.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T18:23:24.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZombieFactory.h",
+              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\ZombieFactory.h",
+              "RelativeDocumentMoniker": "ZombieFactory.h",
+              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\ZombieFactory.h",
+              "RelativeToolTip": "ZombieFactory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T18:23:11.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DancingZombie.h",
+              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\DancingZombie.h",
+              "RelativeDocumentMoniker": "DancingZombie.h",
+              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\DancingZombie.h",
+              "RelativeToolTip": "DancingZombie.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T18:20:48.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlyingZombie.h",
+              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\FlyingZombie.h",
+              "RelativeDocumentMoniker": "FlyingZombie.h",
+              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\FlyingZombie.h",
+              "RelativeToolTip": "FlyingZombie.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T18:20:30.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FootballZombie.h",
+              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\FootballZombie.h",
+              "RelativeDocumentMoniker": "FootballZombie.h",
+              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\FootballZombie.h",
+              "RelativeToolTip": "FootballZombie.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T18:20:12.953Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SimpleZombie.h",
+              "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\SimpleZombie.h",
+              "RelativeDocumentMoniker": "SimpleZombie.h",
+              "ToolTip": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\SimpleZombie.h",
+              "RelativeToolTip": "SimpleZombie.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T18:19:41.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CherryBomb.h",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\CherryBomb.h",
               "RelativeDocumentMoniker": "CherryBomb.h",
@@ -226,12 +221,11 @@
               "RelativeToolTip": "CherryBomb.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:15:42.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:15:42.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SnowPea.h",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\SnowPea.h",
               "RelativeDocumentMoniker": "SnowPea.h",
@@ -239,12 +233,11 @@
               "RelativeToolTip": "SnowPea.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:15:12.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:15:12.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Wallnut.h",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Wallnut.h",
               "RelativeDocumentMoniker": "Wallnut.h",
@@ -252,12 +245,11 @@
               "RelativeToolTip": "Wallnut.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:14:51.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:14:51.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Repeater.h",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Repeater.h",
               "RelativeDocumentMoniker": "Repeater.h",
@@ -265,12 +257,11 @@
               "RelativeToolTip": "Repeater.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:14:35.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:14:35.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Sunflower.h",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Sunflower.h",
               "RelativeDocumentMoniker": "Sunflower.h",
@@ -278,12 +269,11 @@
               "RelativeToolTip": "Sunflower.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:14:17.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:14:17.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Peashooter.h",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Peashooter.h",
               "RelativeDocumentMoniker": "Peashooter.h",
@@ -291,12 +281,11 @@
               "RelativeToolTip": "Peashooter.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:13:58.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:13:58.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Plant.h",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\Plant.h",
               "RelativeDocumentMoniker": "Plant.h",
@@ -304,12 +293,11 @@
               "RelativeToolTip": "Plant.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:13:34.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:13:34.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PlantFactory.h",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\PlantFactory.h",
               "RelativeDocumentMoniker": "PlantFactory.h",
@@ -317,12 +305,11 @@
               "RelativeToolTip": "PlantFactory.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:13:10.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:13:10.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "RooftopRampage.h",
               "DocumentMoniker": "D:\\Github\\Sem_02_Project\\Plants vs Zombies\\RooftopRampage.h",
               "RelativeDocumentMoniker": "RooftopRampage.h",
@@ -330,8 +317,7 @@
               "RelativeToolTip": "RooftopRampage.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:12:34.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:12:34.851Z"
             },
             {
               "$type": "Document",
@@ -343,8 +329,7 @@
               "RelativeToolTip": "NighttimeSiege.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:11:43.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:11:43.449Z"
             },
             {
               "$type": "Document",
@@ -356,8 +341,7 @@
               "RelativeToolTip": "FoggyForst.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:11:02.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:11:02.923Z"
             },
             {
               "$type": "Document",
@@ -369,8 +353,7 @@
               "RelativeToolTip": "SunflowerFields.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:10:39.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:10:39.13Z"
             },
             {
               "$type": "Document",
@@ -382,8 +365,7 @@
               "RelativeToolTip": "ZombieOutskirts.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:09:55.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:09:55.12Z"
             },
             {
               "$type": "Document",
@@ -395,8 +377,7 @@
               "RelativeToolTip": "BeginnersGarden.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:09:16.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:09:16.04Z"
             },
             {
               "$type": "Document",
@@ -408,8 +389,7 @@
               "RelativeToolTip": "Levels.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:08:22.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:08:22.917Z"
             },
             {
               "$type": "Document",
@@ -421,8 +401,7 @@
               "RelativeToolTip": "Game.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:07:42.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:07:42.566Z"
             },
             {
               "$type": "Document",
@@ -434,8 +413,7 @@
               "RelativeToolTip": "Scoreboard.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:07:23.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:07:23.833Z"
             },
             {
               "$type": "Document",
@@ -447,8 +425,7 @@
               "RelativeToolTip": "Time.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-28T18:06:33.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T18:06:33.986Z"
             }
           ]
         }
