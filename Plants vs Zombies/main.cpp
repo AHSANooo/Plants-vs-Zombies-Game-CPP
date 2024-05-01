@@ -23,18 +23,18 @@ int main()
 
 
 	// Declaring RenderWindow.
-	sf::RenderWindow window(sf::VideoMode(resolutionX, resolutionY), "Plants VS Zombies", sf::Style::Close | sf::Style::Titlebar);
+	RenderWindow window(VideoMode(resolutionX, resolutionY), "Plants VS Zombies", Style::Close | Style::Titlebar);
 
-	window.setSize(sf::Vector2u(1440, 960)); // According to the size of my display.
+	window.setSize(Vector2u(1440, 960)); // According to the size of my display.
 
 	//to start out from 0,0 --> orignally 100,0
-	window.setPosition(sf::Vector2i(0, 0));
+	window.setPosition(Vector2i(0, 0));
 
 
 	// Initializing Background.
 	sf::Texture backgroundTexture;
 	sf::Sprite backgroundSprite;
-	backgroundTexture.loadFromFile("Textures/backg.png");//changed the BG image
+	backgroundTexture.loadFromFile("Textures/background3.png");//changed the BG image
 	backgroundSprite.setTexture(backgroundTexture);
 	backgroundSprite.setColor(sf::Color(255, 255, 255, 255 * 0.45)); // Reduces Opacity to 45% --> orignally 25% //(redness, greenness, blue ness , opc.)
 
