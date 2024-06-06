@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plants vs. Zombies Game Project
 
 This is a fun and engaging Plants vs. Zombies game project written in C++ using the SFML library. The game showcases strategic gameplay where players use various plants to defend their garden from waves of quirky and relentless zombies. The project is built with over 2000 lines of code, utilizing Object-Oriented Programming (OOP) concepts for modular and maintainable design.
@@ -83,3 +84,7 @@ Watch the project in action:
 - Collect points by defeating zombies and preventing them from reaching your house.
 
 Feel free to explore and modify the code to enhance the game further!
+=======
+# Plants vs Zombies Game C++
+ This project is designed by Muhammad Ahsan and Ashehal Sadik
+>>>>>>> 541acb711735685d629224c95eb1152a1a36bf9f
